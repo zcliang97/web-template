@@ -65,17 +65,17 @@ Starting up the website
 ## Libraries
 > Note these are the libraries that I chose, if you want to use an alternative package (eg. bower), feel free to uninstall the packages from the 'package.json' file.
 
-- "babel": "^6.23.0",<br>
-- "babel-core": "^6.26.0",<br>
-- "babel-loader": "^7.1.2",<br>
-- "babel-polyfill": "^6.26.0",<br>
-- "babel-preset-es2015": "^6.24.1",<br>
-- "babel-preset-react": "^6.24.1",<br>
-- "es2015": "0.0.0",<br>
-- "react": "^16.2.0",<br>
-- "react-dom": "^16.2.0",<br>
-- "webpack": "^3.10.0",<br>
-- "webpack-dev-server": "^2.11.1"<br>
+- "babel": "^6.23.0",
+- "babel-core": "^6.26.0",
+- "babel-loader": "^7.1.2",
+- "babel-polyfill": "^6.26.0",
+- "babel-preset-es2015": "^6.24.1",
+- "babel-preset-react": "^6.24.1",
+- "es2015": "0.0.0",
+- "react": "^16.2.0",
+- "react-dom": "^16.2.0",
+- "webpack": "^3.10.0",
+- "webpack-dev-server": "^2.11.1"
 - "react-hot-loader": "^3.1.3"
 
 ## TODO
