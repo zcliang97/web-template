@@ -59,7 +59,7 @@ Setup Flask (Backend)
 
 Starting up the website
 
-> For the Frontend: `npm run start-dev`s
+> For the Frontend: `npm run start-dev`
 > For the Backend: `python server.py`
 
 ## Libraries
