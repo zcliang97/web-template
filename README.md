@@ -77,3 +77,8 @@ Starting up the website
 - "webpack": "^3.10.0",<br>
 - "webpack-dev-server": "^2.11.1"<br>
 - "react-hot-loader": "^3.1.3"
+
+## TODO
+
+- Incorporate CSS styling with css-loader
+- Add axios backend support
