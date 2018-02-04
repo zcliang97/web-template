@@ -1,7 +1,9 @@
-# Stock Visualizer
+# Web App Template
 
 ## Description
-This is a stock visualization tool that is built to help users visualize selective stocks in real time. This project pulls data from ___ API and plots the data with the Plotly.js library.
+This is a web app template set up with ReactJS in the frontend and Python in the backend and managed with Webpack and Babel.
+> To see a list of included libraries please go scroll down to Libraries section
+To start a new web app, clone the project and follow the install instructions
 
 ## Install Instructions
 
@@ -29,6 +31,13 @@ Setup npm
 
 > `npm install`
 
+Install python
+
+> Go to the link and select the appropriate python download for your system
+> https://www.python.org/download/releases/2.7/
+
+## Manual Setup Instructions
+
 Setup Webpack
 
 > `npm i webpack --save-dev`
@@ -55,4 +64,15 @@ Starting up the website
 
 ## Libraries
 
-Plotly.js: https://github.com/plotly/plotly.js/
+"babel": "^6.23.0",
+"babel-core": "^6.26.0",
+"babel-loader": "^7.1.2",
+"babel-polyfill": "^6.26.0",
+"babel-preset-es2015": "^6.24.1",
+"babel-preset-react": "^6.24.1",
+"es2015": "0.0.0",
+"react": "^16.2.0",
+"react-dom": "^16.2.0",
+"webpack": "^3.10.0",
+"webpack-dev-server": "^2.11.1"
+"react-hot-loader": "^3.1.3"
