@@ -65,14 +65,25 @@ Starting up the website
 ## Libraries
 
 "babel": "^6.23.0",
+
 "babel-core": "^6.26.0",
+
 "babel-loader": "^7.1.2",
+
 "babel-polyfill": "^6.26.0",
+
 "babel-preset-es2015": "^6.24.1",
+
 "babel-preset-react": "^6.24.1",
+
 "es2015": "0.0.0",
+
 "react": "^16.2.0",
+
 "react-dom": "^16.2.0",
+
 "webpack": "^3.10.0",
+
 "webpack-dev-server": "^2.11.1"
+
 "react-hot-loader": "^3.1.3"
