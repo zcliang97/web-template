@@ -24,13 +24,6 @@ Then download the project.
 
 > Click the "Clone or Download" button above to download the project.
 
-Setup npm
-
-> `npm init`
-> Enter any values that you want but can skip by pressing Enter
-
-> `npm install`
-
 Install python
 
 > Go to the link and select the appropriate python download for your system
@@ -55,12 +48,12 @@ Setup Babel
 
 Setup Flask (Backend)
 
-> `sudo pip install flask`
+> `pip install flask`
 
 Starting up the website
 
 > For the Frontend: `npm run start-dev`<br>
-> For the Backend: `python server.py`
+> For the Backend: `python server/server.py`
 
 ## Libraries
 > Note these are the libraries that I chose, if you want to use an alternative package (eg. bower), feel free to uninstall the packages from the 'package.json' file.
